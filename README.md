@@ -48,6 +48,8 @@ Designed interactive dashboards using charts and slicers.
 
 Analyzed insights and finalized the Power BI report.
 
+<img width="993" height="556" alt="Screenshot power bi 2 " src="https://github.com/user-attachments/assets/f482afc2-e534-48ec-b863-d3cec1942b1c" />
+
 ## Project Insights
 
 The dashboard highlights the total number of campus issues and their current status.
