@@ -32,6 +32,8 @@ Monthly or time-based issue trends
 
 High-priority problem areas
 
+- Dashboard Insights  <a href="https://github.com/boomika0613-hub/Campus-Issue-Management-Analytics-using-Power-BI/blob/main/power%20bi%20project%202.pbix">View Dashboard</a>
+
 ## Project Process
 
 Imported campus issue data from Excel into Power BI.
